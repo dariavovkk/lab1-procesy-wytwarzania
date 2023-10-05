@@ -11,4 +11,9 @@ public class User {
     public void hello4(){
         System.out.println("hello2");
     }
+    public void hello5(){
+        System.out.println("hello2");
+    }
+
+
 }
