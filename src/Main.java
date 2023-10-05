@@ -10,6 +10,6 @@ public class Main {
         }
     }
     public void costam(String name){
-        System.out.println(name);
+        System.out.println(name + "x0");
     }
 }
